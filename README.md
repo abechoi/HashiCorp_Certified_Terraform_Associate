@@ -1,9 +1,11 @@
 <h1 align="center">
 Hashicorp Certified: Terraform Associate
 </h1>
-<p>
+<p align="center">
 By Kalyan Reddy Daida
 </p>
+
+## Table of Contents
 
 1. [Infrastructure as Code](#infrastructure-as-code)
 2. [Terrform Basics](#terraform-basics)
